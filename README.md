@@ -11,7 +11,6 @@ This project is a simple personal portfolio website that showcases my skills and
 ---
 
 ## **Features**
-- **Responsive Design:** The website adjusts to different screen sizes (desktop and mobile).
 - **CSS Styling:** Focused on creating visually appealing layouts with clean and structured CSS.
 - **Sections:**  
   - **Home:** Basic introduction and contact information.  
