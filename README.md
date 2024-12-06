@@ -42,7 +42,7 @@ In future updates, I plan to:
 ---
 
 ## **How to Access**
-Visit the website here: [GitHub Pages Link](#)
+Visit the website here: [Thomas Yacoub](https://thomas011001.github.io/MyPortfolio/)
 
 ---
 
